@@ -1,0 +1,117 @@
+{
+  "uid" : "f584f76e5b03ded7",
+  "name" : "Verify Story Video is displayed",
+  "fullName" : "Test Volvo Page.Verify Story Video is displayed",
+  "historyId" : "30843353cb49e223987cc66a85ececaf",
+  "time" : {
+    "start" : 1642957078754,
+    "stop" : 1642957082300,
+    "duration" : 3546
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I launch chrome browser",
+      "time" : {
+        "start" : 1642957078754,
+        "stop" : 1642957078755,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I enter url",
+      "time" : {
+        "start" : 1642957078755,
+        "stop" : 1642957081603,
+        "duration" : 2848
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Verify Story Video is displayed",
+      "time" : {
+        "start" : 1642957081603,
+        "stop" : 1642957081628,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Story Video is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f584f76e5b03ded7.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

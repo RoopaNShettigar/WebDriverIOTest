@@ -1,0 +1,115 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Test Recharge Page",
+    "children" : [ {
+      "name" : "Verify Recharge Page Redirection",
+      "uid" : "a9047c7b1797742c",
+      "parentUid" : "446e76d6858c2338b0c1cc224b25a647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957075239,
+        "stop" : 1642957080936,
+        "duration" : 5697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    } ],
+    "uid" : "446e76d6858c2338b0c1cc224b25a647"
+  }, {
+    "name" : "Test Volvo Page",
+    "children" : [ {
+      "name" : "Verify Volvo page redirection",
+      "uid" : "f49e49556ceddf81",
+      "parentUid" : "c8a10334a98da1ad5d129573fc382201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957075274,
+        "stop" : 1642957078753,
+        "duration" : 3479
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Verify Story Video is displayed",
+      "uid" : "f584f76e5b03ded7",
+      "parentUid" : "c8a10334a98da1ad5d129573fc382201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957078754,
+        "stop" : 1642957082300,
+        "duration" : 3546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Verify story video play",
+      "uid" : "ba913e9bc5010804",
+      "parentUid" : "c8a10334a98da1ad5d129573fc382201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957082300,
+        "stop" : 1642957086852,
+        "duration" : 4552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Verify Menu navigation panel",
+      "uid" : "6090bbdd7b504285",
+      "parentUid" : "c8a10334a98da1ad5d129573fc382201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957086852,
+        "stop" : 1642957091069,
+        "duration" : 4217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Verify Our Cars is opened",
+      "uid" : "befbe89147e7e92c",
+      "parentUid" : "c8a10334a98da1ad5d129573fc382201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642957091069,
+        "stop" : 1642957095328,
+        "duration" : 4259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    } ],
+    "uid" : "c8a10334a98da1ad5d129573fc382201"
+  } ]
+}

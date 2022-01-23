@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 23 22:28:06 IST 2022","Sun Jan 23 22:28:11 IST 2022","4217","","Test Volvo Page","","Test Volvo Page","Verify Menu navigation panel","Verify Menu navigation panel",""
+"passed","Sun Jan 23 22:28:11 IST 2022","Sun Jan 23 22:28:15 IST 2022","4259","","Test Volvo Page","","Test Volvo Page","Verify Our Cars is opened","Verify Our Cars is opened",""
+"passed","Sun Jan 23 22:28:02 IST 2022","Sun Jan 23 22:28:06 IST 2022","4552","","Test Volvo Page","","Test Volvo Page","Verify story video play","Verify story video play",""
+"passed","Sun Jan 23 22:27:58 IST 2022","Sun Jan 23 22:28:02 IST 2022","3546","","Test Volvo Page","","Test Volvo Page","Verify Story Video is displayed","Verify Story Video is displayed",""
+"passed","Sun Jan 23 22:27:55 IST 2022","Sun Jan 23 22:27:58 IST 2022","3479","","Test Volvo Page","","Test Volvo Page","Verify Volvo page redirection","Verify Volvo page redirection",""
+"passed","Sun Jan 23 22:27:55 IST 2022","Sun Jan 23 22:28:00 IST 2022","5697","","Test Recharge Page","","Test Recharge Page","Verify Recharge Page Redirection","Verify Recharge Page Redirection",""

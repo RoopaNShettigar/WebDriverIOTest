@@ -1,0 +1,117 @@
+{
+  "uid" : "a9047c7b1797742c",
+  "name" : "Verify Recharge Page Redirection",
+  "fullName" : "Test Recharge Page.Verify Recharge Page Redirection",
+  "historyId" : "c25b541add057201aad03caa1591d735",
+  "time" : {
+    "start" : 1642957075239,
+    "stop" : 1642957080936,
+    "duration" : 5697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to Volvo page",
+      "time" : {
+        "start" : 1642957075241,
+        "stop" : 1642957077799,
+        "duration" : 2558
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I click Recharge",
+      "time" : {
+        "start" : 1642957077800,
+        "stop" : 1642957080227,
+        "duration" : 2427
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Verify Recharge page is opened",
+      "time" : {
+        "start" : 1642957080227,
+        "stop" : 1642957080240,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test Recharge Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Recharge Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Recharge Page Redirection"
+  }, {
+    "name" : "package",
+    "value" : "Test Recharge Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9047c7b1797742c.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

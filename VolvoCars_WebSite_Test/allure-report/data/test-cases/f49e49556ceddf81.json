@@ -1,0 +1,117 @@
+{
+  "uid" : "f49e49556ceddf81",
+  "name" : "Verify Volvo page redirection",
+  "fullName" : "Test Volvo Page.Verify Volvo page redirection",
+  "historyId" : "83955d345553edbe8e0bdf8c46819aac",
+  "time" : {
+    "start" : 1642957075274,
+    "stop" : 1642957078753,
+    "duration" : 3479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I launch chrome browser",
+      "time" : {
+        "start" : 1642957075283,
+        "stop" : 1642957075287,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I enter url",
+      "time" : {
+        "start" : 1642957075287,
+        "stop" : 1642957078008,
+        "duration" : 2721
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Verify Volvo safety page is displayed",
+      "time" : {
+        "start" : 1642957078008,
+        "stop" : 1642957078039,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Volvo page redirection"
+  }, {
+    "name" : "package",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f49e49556ceddf81.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

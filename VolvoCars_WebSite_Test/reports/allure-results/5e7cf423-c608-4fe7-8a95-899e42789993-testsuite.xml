@@ -1,0 +1,172 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1642957075233' stop='1642957095328'>
+    <name>Test Volvo Page</name>
+    <title>Test Volvo Page</title>
+    <test-cases>
+        <test-case start='1642957075274' status='passed' stop='1642957078753'>
+            <name>Verify Volvo page redirection</name>
+            <title>Verify Volvo page redirection</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.71'/>
+            </parameters>
+            <steps>
+                <step start='1642957075283' status='passed' stop='1642957075287'>
+                    <name>Given I launch chrome browser</name>
+                    <title>Given I launch chrome browser</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957075287' status='passed' stop='1642957078008'>
+                    <name>When I enter url</name>
+                    <title>When I enter url</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957078008' status='passed' stop='1642957078039'>
+                    <name>Then Verify Volvo safety page is displayed</name>
+                    <title>Then Verify Volvo safety page is displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1642957078754' status='passed' stop='1642957082300'>
+            <name>Verify Story Video is displayed</name>
+            <title>Verify Story Video is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.71'/>
+            </parameters>
+            <steps>
+                <step start='1642957078754' status='passed' stop='1642957078755'>
+                    <name>Given I launch chrome browser</name>
+                    <title>Given I launch chrome browser</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957078755' status='passed' stop='1642957081603'>
+                    <name>When I enter url</name>
+                    <title>When I enter url</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957081603' status='passed' stop='1642957081628'>
+                    <name>Then Verify Story Video is displayed</name>
+                    <title>Then Verify Story Video is displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1642957082300' status='passed' stop='1642957086852'>
+            <name>Verify story video play</name>
+            <title>Verify story video play</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.71'/>
+            </parameters>
+            <steps>
+                <step start='1642957082301' status='passed' stop='1642957084522'>
+                    <name>Given I navigate to Volvo page</name>
+                    <title>Given I navigate to Volvo page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957084522' status='passed' stop='1642957086164'>
+                    <name>When I click on Watch Story Button</name>
+                    <title>When I click on Watch Story Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957086165' status='passed' stop='1642957086195'>
+                    <name>Then Verify story video is playing</name>
+                    <title>Then Verify story video is playing</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1642957086852' status='passed' stop='1642957091069'>
+            <name>Verify Menu navigation panel</name>
+            <title>Verify Menu navigation panel</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.71'/>
+            </parameters>
+            <steps>
+                <step start='1642957086853' status='passed' stop='1642957089260'>
+                    <name>Given I navigate to Volvo page</name>
+                    <title>Given I navigate to Volvo page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957089260' status='passed' stop='1642957090392'>
+                    <name>When I click on Menu Button</name>
+                    <title>When I click on Menu Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957090392' status='passed' stop='1642957090442'>
+                    <name>Then Verify Menu Navigation panel is displayed</name>
+                    <title>Then Verify Menu Navigation panel is displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1642957091069' status='passed' stop='1642957095328'>
+            <name>Verify Our Cars is opened</name>
+            <title>Verify Our Cars is opened</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.71'/>
+            </parameters>
+            <steps>
+                <step start='1642957091069' status='passed' stop='1642957093521'>
+                    <name>Given I navigate to Volvo page</name>
+                    <title>Given I navigate to Volvo page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957093521' status='passed' stop='1642957094656'>
+                    <name>When I click on Our Cars</name>
+                    <title>When I click on Our Cars</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1642957094656' status='passed' stop='1642957094707'>
+                    <name>Then Verify Our Cars is opened</name>
+                    <title>Then Verify Our Cars is opened</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

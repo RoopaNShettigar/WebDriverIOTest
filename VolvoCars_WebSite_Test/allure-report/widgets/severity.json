@@ -1,0 +1,61 @@
+[ {
+  "uid" : "f49e49556ceddf81",
+  "name" : "Verify Volvo page redirection",
+  "time" : {
+    "start" : 1642957075274,
+    "stop" : 1642957078753,
+    "duration" : 3479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f584f76e5b03ded7",
+  "name" : "Verify Story Video is displayed",
+  "time" : {
+    "start" : 1642957078754,
+    "stop" : 1642957082300,
+    "duration" : 3546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "befbe89147e7e92c",
+  "name" : "Verify Our Cars is opened",
+  "time" : {
+    "start" : 1642957091069,
+    "stop" : 1642957095328,
+    "duration" : 4259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6090bbdd7b504285",
+  "name" : "Verify Menu navigation panel",
+  "time" : {
+    "start" : 1642957086852,
+    "stop" : 1642957091069,
+    "duration" : 4217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba913e9bc5010804",
+  "name" : "Verify story video play",
+  "time" : {
+    "start" : 1642957082300,
+    "stop" : 1642957086852,
+    "duration" : 4552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9047c7b1797742c",
+  "name" : "Verify Recharge Page Redirection",
+  "time" : {
+    "start" : 1642957075239,
+    "stop" : 1642957080936,
+    "duration" : 5697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

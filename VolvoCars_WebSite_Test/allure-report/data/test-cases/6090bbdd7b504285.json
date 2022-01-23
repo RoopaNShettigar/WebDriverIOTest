@@ -1,0 +1,117 @@
+{
+  "uid" : "6090bbdd7b504285",
+  "name" : "Verify Menu navigation panel",
+  "fullName" : "Test Volvo Page.Verify Menu navigation panel",
+  "historyId" : "6c22d08223583000c4ef53a561bb2df9",
+  "time" : {
+    "start" : 1642957086852,
+    "stop" : 1642957091069,
+    "duration" : 4217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I navigate to Volvo page",
+      "time" : {
+        "start" : 1642957086853,
+        "stop" : 1642957089260,
+        "duration" : 2407
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on Menu Button",
+      "time" : {
+        "start" : 1642957089260,
+        "stop" : 1642957090392,
+        "duration" : 1132
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Verify Menu Navigation panel is displayed",
+      "time" : {
+        "start" : 1642957090392,
+        "stop" : 1642957090442,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Menu navigation panel"
+  }, {
+    "name" : "package",
+    "value" : "Test Volvo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6090bbdd7b504285.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}
